@@ -8,7 +8,7 @@ function Refrence2()
     const inputEmail = useRef("");
     const inputMobileNo = useRef("");
 
-    const [name,setName] =useState("Hetasvi ");
+    const [name,setName] =useState("Drashti ");
     const [city,setCity] =useState("Rajkot");
     const [email,setEmail] =useState("@gmail.com ");
     const [mobileNo,setMobileNo] =useState("1234567890");
